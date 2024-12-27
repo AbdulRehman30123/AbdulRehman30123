@@ -17,6 +17,14 @@
 ![](https://github-readme-stats.vercel.app/api?username=AbdulRehman30123&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AbdulRehman30123&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRehman30123&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+  <img alt="github-snake" src="dist/github-snake.svg" />
+</picture>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AbdulRehman30123&theme=radical&no-frame=true&no-bg=false&margin-w=4)
